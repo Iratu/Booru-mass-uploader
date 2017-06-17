@@ -122,11 +122,11 @@ document.documentElement.innerHTML='\
 			padding-top: 0.5em;\
 		}\
 	</style>\
-	<script type="text/javascript" src="https://seedmanc.github.io/Booru-mass-uploader/js/common-min.js"></script>\
+	<script type="text/javascript" src="https://iratu.github.io/Booru-mass-uploader/js/common-min.js"></script>\
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.3.0/prototype.js"></script>\
-	<script type="text/javascript" src="https://seedmanc.github.io/Booru-mass-uploader/js/booru-params.js"></script>\
-	<script type="text/javascript" src="https://seedmanc.github.io/Booru-mass-uploader/js/helpers.min.js"></script>\
-	<script type="text/javascript" src="https://seedmanc.github.io/Booru-mass-uploader/js/uploader.js"></script>\
+	<script type="text/javascript" src="https://iratu.github.io/Booru-mass-uploader/js/booru-params.js"></script>\
+	<script type="text/javascript" src="https://iratu.github.io/Booru-mass-uploader/js/helpers.min.js"></script>\
+	<script type="text/javascript" src="https://iratu.github.io/Booru-mass-uploader/js/uploader.js"></script>\
 </head>\
 <body>\
 <h1>Booru Mass-Uploader<span style="font-size:14px;"> v1.3.3</span></h1>\
@@ -262,7 +262,7 @@ document.documentElement.innerHTML='\
 	extension other than <tt>jpg/jpeg/gif/png</tt> will be skipped)\
 </div>\
 <br>\
-<img src="https://seedmanc.github.io/Booru-mass-uploader/spinner.gif" id="spinner" alt="loading"/>\
+<img src="https://iratu.github.io/Booru-mass-uploader/spinner.gif" id="spinner" alt="loading"/>\
 <p style="display: none;" id="infobar">You are <b id="loggedIn"></b> to a <b id="current"></b> site.</p>\
 <button disabled="" id="submit" onclick="FilesSelected( $(\'files\').files );">Upload!</button>\
 \
